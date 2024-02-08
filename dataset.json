@@ -22,7 +22,7 @@
         "priority": 1,
         "action": { "type": "block" },
         "condition": {
-          "urlFilter": "||web.whatsapp.com",
+          "urlFilter": "||whatsapp.com",
           "resourceTypes": ["main_frame"]
         }
       }
